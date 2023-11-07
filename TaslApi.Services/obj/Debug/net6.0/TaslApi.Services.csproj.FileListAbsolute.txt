@@ -1,0 +1,15 @@
+E:\OurWebAPI\TaslApi.Services\bin\Debug\net6.0\TaslApi.Services.deps.json
+E:\OurWebAPI\TaslApi.Services\bin\Debug\net6.0\TaslApi.Services.dll
+E:\OurWebAPI\TaslApi.Services\bin\Debug\net6.0\TaslApi.Services.pdb
+E:\OurWebAPI\TaslApi.Services\bin\Debug\net6.0\TaskApi.Models.dll
+E:\OurWebAPI\TaslApi.Services\bin\Debug\net6.0\TaskApi.Models.pdb
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.csproj.AssemblyReference.cache
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.AssemblyInfoInputs.cache
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.AssemblyInfo.cs
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.csproj.CoreCompileInputs.cache
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.csproj.CopyComplete
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.dll
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\refint\TaslApi.Services.dll
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\TaslApi.Services.pdb
+E:\OurWebAPI\TaslApi.Services\obj\Debug\net6.0\ref\TaslApi.Services.dll

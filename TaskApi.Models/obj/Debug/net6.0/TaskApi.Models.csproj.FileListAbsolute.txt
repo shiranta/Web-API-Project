@@ -1,0 +1,12 @@
+E:\OurWebAPI\TaskApi.Models\bin\Debug\net6.0\TaskApi.Models.deps.json
+E:\OurWebAPI\TaskApi.Models\bin\Debug\net6.0\TaskApi.Models.dll
+E:\OurWebAPI\TaskApi.Models\bin\Debug\net6.0\TaskApi.Models.pdb
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.csproj.AssemblyReference.cache
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.AssemblyInfoInputs.cache
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.AssemblyInfo.cs
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.csproj.CoreCompileInputs.cache
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.dll
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\refint\TaskApi.Models.dll
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\TaskApi.Models.pdb
+E:\OurWebAPI\TaskApi.Models\obj\Debug\net6.0\ref\TaskApi.Models.dll
